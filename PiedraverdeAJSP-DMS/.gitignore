@@ -1,0 +1,85 @@
+# .NET Core build output
+/bin/
+/obj/
+
+# User-specific files
+*.user
+*.userosscache
+*.suo
+*.userprefs
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# VS for Mac
+.vscode/
+
+# Rider
+.idea/
+
+# User-specific files
+.vs/
+.vs2019/
+.vs2022/
+.idea/
+
+# NUGET
+# User-specific files
+.nuget/
+
+# Windows Installer files
+*.cab
+*.msi
+*.msm
+*.msp
+
+# Logs
+logs/
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+
+# .NET Core SDK
+global.json
+
+# Docker specific files
+docker-compose.override.yml
+
+# Azure Functions
+.local/
+
+# ASP.NET Core specific files
+# Temporary file used by Visual Studio to manage the IIS Express session
+.vs2019/
+.vs2017/
+
+# IIS Express
+/IISExpress/
+
+# ASP.NET Core Identity
+Identity/
+
+# Publish folder (deploy artifacts)
+publish/
+
+# ASP.NET Core RUNTIME SETTINGS
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# User secrets for development environment
+secrets/
+
+# SignalR files for ASP.NET Core (if using)
+.signalr/
+
+# Temporary files created by ASP.NET Core during development
+app_data/
+

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\FDS LAB5.props" />
+</Project>
